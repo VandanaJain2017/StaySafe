@@ -1,0 +1,2 @@
+		
+StaySafe is an application which will focus on giving instructions under danger circumstances. While tracking your location, it will instruct you how to gateway of the danger zone. You will have the option to listen or read it, and to share it with significant others if it’s necessary. 
